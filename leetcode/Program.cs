@@ -42,7 +42,10 @@ namespace leetcode
 
             // new MaximumSubarray().MaxSub(new int[] { -2, 1 });
 
-            new MergeSortedArray().Merge(new int[] { 6, 14, 17, 0, 0, 0 }, 3, new int[] { 2, 5, 6 }, 3);
+            // new MergeSortedArray().Merge(new int[] { 6, 14, 17, 0, 0, 0 }, 3, new int[] { 2, 5, 6 }, 3);
+
+            // new LinkedListCycle().HasCycle(a);
+
         }
     }
 }
