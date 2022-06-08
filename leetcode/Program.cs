@@ -46,26 +46,12 @@ namespace leetcode
 
             // new LinkedListCycle().HasCycle(a);
 
-            var stack = new MinStack();
+            // new MinStack().GetMin();
+
+            // new IntersectLinkedList().GetIntersectionNode(a1, b1);
 
 
-            stack.Push(2147483646);
-            stack.Push(2147483646);
-            stack.Push(2147483647);
-            stack.Top();
-            stack.Pop();
-            stack.GetMin();
-            stack.Pop();
-            stack.GetMin();
-            stack.Pop();
-            stack.Push(2147483647);
-            stack.Top();
-            stack.GetMin();
-            stack.Push(-2147483648);
-            stack.Top();
-            stack.GetMin();
-            stack.Pop();
-            stack.GetMin();
+
         }
     }
 }
