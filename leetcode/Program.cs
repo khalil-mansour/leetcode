@@ -50,7 +50,7 @@ namespace leetcode
 
             // new IntersectLinkedList().GetIntersectionNode(a1, b1);
 
-
+            // new MajorityElement().Majority(new int[] { 6, 5, 5 });
 
         }
     }
