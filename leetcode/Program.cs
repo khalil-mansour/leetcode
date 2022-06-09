@@ -52,6 +52,8 @@ namespace leetcode
 
             // new MajorityElement().Majority(new int[] { 6, 5, 5 });
 
+            // new FactorialTrailingZeroes().TrailingZeroes(31);
+
         }
     }
 }
