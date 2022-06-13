@@ -54,6 +54,8 @@ namespace leetcode
 
             // new FactorialTrailingZeroes().TrailingZeroes(31);
 
+            // new HouseRobber.Rob(new int[] { 6, 5, 5 });
+
         }
     }
 }
